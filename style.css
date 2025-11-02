@@ -1,0 +1,23 @@
+h1{
+   background-color:660099;
+   text-decoration-color: whitesmoke;
+   color:blue;
+   border: solid 3px slateblue;
+   outline-style: dotted ;
+   outline-color: blueviolet;
+   outline-width: 5px;
+}
+.box{
+   border: 3px solid blue;
+   background-color: yellow;
+   color:whitesmoke;
+
+}
+p1{
+   background-color: blue;
+}
+button{
+outline-style: dashed;
+outline-color: black;
+background-color: yellow;
+}
