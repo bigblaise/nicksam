@@ -1,10 +1,10 @@
 h1{
-   background-color:660099;
-   text-decoration-color: whitesmoke;
-   color:blue;
+   background-image:url(image/img2.jpg) ;
+   background-image: ;
+   color:yellow;
    border: solid 3px slateblue;
-   outline-style: dotted ;
-   outline-color: blueviolet;
+   outline-style: dashed;
+   outline-color:#ff6666;
    outline-width: 5px;
 }
 .box{
@@ -15,9 +15,38 @@ h1{
 }
 p1{
    background-color: blue;
+   color: red;
 }
 button{
 outline-style: dashed;
 outline-color: black;
 background-color: yellow;
+}
+h5{
+   background-color:darkblue;
+   color:#9900ff;
+   align-content: right;
+}
+h6{
+   color:red;
+   text-align: start;
+   scroll-padding-top: calc();
+   background-image:url(image/img7.jpg);
+   height: 450px;
+   width: 800px;
+   margin: 5px;
+}
+img{
+   object-fit: cover;
+   clip-path: circle(50% at 50% 50%);
+   ::shadow
+
+}
+body{
+   color:black;
+   background-color: aqua;
+}
+h5{
+   -ms-text-size-adjust: 4px;
+   text-emphasis-style: ;
 }
